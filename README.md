@@ -41,3 +41,6 @@ The analysis of the election show that:
     
 ## Election Audit Summary
 
+Further analysis could be performed on the existing dataset by modifying the script to count the votes for each candidate by the county the ballot was cast. By using a conditional statement we can isolate votes for a candidate AND the county it came from into a list. This analysis would provide further insight where each candidate's support originated from in the overall vote turnout.
+
+For a broader use of this code, we could create dictionaries with all the existing counties and congressional district assignments to create a lookup that would allow the script to be utilized for any election in Colorado. With additional requirement gathering we could modify the script to injest election data, determine the district the ballots are assigned, and run the analysis providing results for any congressional election in Colorado.
