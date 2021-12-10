@@ -1,19 +1,21 @@
 # Election_Analysis
 
-## Project Overview
-A Colorado Board of Election employee has given you the following tasks to complete the election audit of a recent local congressional election.
+## Overview of Election Audit
+A Colorado Board of Election has requested an election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
+6. Determine the total number of votes and percentages for each county.
+7. Determine the county that had the largest voter turnout.
 
-## Resources
+### Resources
 – Data Source: election_results.csv
-– Software: Python 3.6.1, Visual Studio Code, 1.38.1
+– Software: Python 3.6.7, Visual Studio Code, 1.62.3
 
-## Summary
+## Election Audit Results
 The analysis of the election show that:
 
 * There were 369,711 votes cast in the election.
@@ -27,7 +29,15 @@ The analysis of the election show that:
     * Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 * The winner of the election was:
     * Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-    
-## Challenge Overview
+* The counties in the congressional election were:
+    * Jefferson had 10.5 percent of the votes with 38,855 ballots cast.
+    * Denver had 82.8 percent of the votes with 306,055 ballots cast.
+    * Arapahoe had 6.7 percent of the votes with 24,801 ballots cast.
+* The county with the largest voter turnout:
+    * Denver
 
-## Challenge Summary
+![Screen Shot 2021-12-10 at 9 08 24 AM](https://user-images.githubusercontent.com/93485455/145600097-cdd8b530-9904-4f1d-9c2c-76eae6983d21.png)
+
+    
+## Election Audit Summary
+
