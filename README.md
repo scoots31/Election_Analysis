@@ -38,6 +38,8 @@ The analysis of the election show that:
 
 ![Screen Shot 2021-12-10 at 9 08 24 AM](https://user-images.githubusercontent.com/93485455/145600097-cdd8b530-9904-4f1d-9c2c-76eae6983d21.png)
 
+![Screen Shot 2021-12-10 at 9 08 54 AM](https://user-images.githubusercontent.com/93485455/145608919-5ecf836e-76aa-4f2c-a3bc-2cd3f999ee80.png)
+
     
 ## Election Audit Summary
 
